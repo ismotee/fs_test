@@ -1,0 +1,11 @@
+{
+  "name": "fs_test",
+  "version": "1.0.0",
+  "description": "testing js file system extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "testfs"
+  },
+  "author": "Ismo Torvinen",
+  "license": "ISC"
+}
